@@ -167,6 +167,25 @@ vManage GUI > Configuration > Devices > (3 dots) > Running Configurations
 ```
 vManage GUI > Monitor > Devices > (3 dots) > SSH Terminal
 ```
+**Verify Control Plane from vManage**
+
+Go to Monitor > Devices > [device].
+
+```
+>   - Control Connections: Equivalent of `show [sdwan] control connections`
+>   - Real Time > BFD Sessions: Equivalent of `show [sdwan] bfd sessions`
+>   - Real Time > IP Routes: Equivalent of `show ip route [vrf *]`
+> - To verify the data plane from vManage: Go to Monitor > Devices > [device] > 
+Go to Monitor > Devices > [device].
+```
+Troubleshooting > Ping | Traceroute
+
+```
+> - To perform remote packet capture from vManage:
+>   - vManage > Administration > Settings > Data Stream > Enabled
+>   - Monitor > Devices > [device] > Troubleshooting > Packet Capture
+
+```
 ## Quick Troubleshooting Checklist
 
 - [ ] Verify PKI certificate validity
