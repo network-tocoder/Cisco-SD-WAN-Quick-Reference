@@ -60,6 +60,4 @@
   </ul>
 </details>
 
----
 
-> This repository is a living document. Contributions and suggestions are welcome!
