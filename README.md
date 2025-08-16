@@ -115,6 +115,8 @@ show control connections
 show sdwan control connections
 ```
 
+### Data-Plane (IPSec) Tunnels
+
 **vEdge:**
 ```
 show bfd sessions
@@ -138,7 +140,6 @@ show ip route <prefix> details
 show ip route [vrf1]
 show ip route <prefix> details
 ```
-### Data-Plane (IPSec) Tunnels
 
 ## Cisco SD-WAN GUI Verifications
 
