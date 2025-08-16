@@ -144,13 +144,13 @@ show ip route <prefix> details
 ### Cisco SD-WAN GUI Verifications
 
 **View a WAN Edge Router's Running Configuration**
-
+```
 - vManage > Configuration > Devices > (3 dots) > Running Configurations
-
+```
 **SSH to WAN Edge Router**
-
+```
 - vManage > Monitor > Devices > (3 dots) > SSH Terminal
-
+```
 ## Quick Troubleshooting Checklist
 
 - [ ] Verify PKI certificate validity
