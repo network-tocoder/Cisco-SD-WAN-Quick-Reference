@@ -141,7 +141,7 @@ show ip route [vrf1]
 show ip route <prefix> details
 ```
 
-## Cisco SD-WAN GUI Verifications
+### Cisco SD-WAN GUI Verifications
 
 **View a WAN Edge Router's Running Configuration**
 
