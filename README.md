@@ -145,11 +145,11 @@ show ip route <prefix> details
 
 **View a WAN Edge Router's Running Configuration**
 ```
-- vManage > Configuration > Devices > (3 dots) > Running Configurations
+vManage GUI > Configuration > Devices > (3 dots) > Running Configurations
 ```
 **SSH to WAN Edge Router**
 ```
-- vManage > Monitor > Devices > (3 dots) > SSH Terminal
+vManage GUI > Monitor > Devices > (3 dots) > SSH Terminal
 ```
 ## Quick Troubleshooting Checklist
 
