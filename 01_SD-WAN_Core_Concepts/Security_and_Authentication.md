@@ -1,4 +1,4 @@
-## Security & Authentication
+## Security & Protocol
 
 ### PKI Certificates
 - **Controllers**: vBond, vSmart, and vManage use PKI certificates for authentication
