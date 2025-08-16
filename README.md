@@ -132,11 +132,13 @@ show sdwan bfd sessions
 **vEdge:**
 ```
 show ip route [vpn1]
+show ip route <prefix> details
 ```
 
 **cEdge:**
 ```
 show ip route [vrf1]
+show ip route <prefix> details
 ```
 
 ## Quick Troubleshooting Checklist
