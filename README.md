@@ -30,31 +30,31 @@
   </ul>
 </details>
 <details>
-  <summary><b>3. SD-WAN Configuration</b></summary>
+  <summary><b>SD-WAN Configuration</b></summary>
   <ul>
     <li><a href="03_SD-WAN_Configuration/README.md">Configuration Guide</a></li>
   </ul>
 </details>
 <details>
-  <summary><b>4. SD-WAN Policies</b></summary>
+  <summary><b>SD-WAN Policies</b></summary>
   <ul>
     <li><a href="04_SD-WAN_Policies/README.md">Policy Types & Examples</a></li>
   </ul>
 </details>
 <details>
-  <summary><b>5. SD-WAN Security</b></summary>
+  <summary><b>SD-WAN Security</b></summary>
   <ul>
     <li><a href="05_SD-WAN_Security/README.md">Security Concepts</a></li>
   </ul>
 </details>
 <details>
-  <summary><b>6. SD-WAN Quality of Service</b></summary>
+  <summary><b>SD-WAN Quality of Service</b></summary>
   <ul>
     <li><a href="06_SD-WAN_Quality_of_Service/README.md">QoS Overview</a></li>
   </ul>
 </details>
 <details>
-  <summary><b>7. Advanced Features</b></summary>
+  <summary><b>Advanced Features</b></summary>
   <ul>
     <li><a href="07_Advanced_Features/README.md">Advanced Features</a></li>
   </ul>
