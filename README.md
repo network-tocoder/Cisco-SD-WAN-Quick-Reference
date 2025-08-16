@@ -11,7 +11,6 @@ I will keep this repository updated and add new topics.
 <details>
   <summary><b>1. SD-WAN Core Concepts</b></summary>
   <ul>
-    <li><a href="01_SD-WAN_Core_Concepts/Overview.md">Overview</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Controllers_Architecture.md">Controllers Architecture</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Plane_Architecture.md">Plane Architecture</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Security_and_Authentication.md">Security & Authentication</a></li>
