@@ -1,5 +1,5 @@
 
-# Everything About Cisco SD-WAN <img src="images/Ansible.png" width="10%" height="50%" align="right" /> 
+# Everything About Cisco SD-WAN width="10%" height="50%" align="right" /> 
 
 <h1 align="center" style="color:#0d47a1; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.8em; font-weight:800; letter-spacing:1.5px;">
   Everything About Cisco SD-WAN (Viptela)
@@ -9,8 +9,6 @@ This project focuses on sharing brief, clear explanations how to use cisco SD-WA
 <br></div></br>
 I will keep this repository updated and add new topics.
 <br></div></br>
-
-
 <details>
   <summary><b>1.How to Get started with SD-WAN ( Core Concepts) </b></summary>
   <ul>
