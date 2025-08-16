@@ -2,7 +2,7 @@
 
 <img align="right" valign="center" src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/>
 
-This project focuses on sharing brief, clear explanations on how to use Cisco SD-WAN (Viptela) with practical use cases and automation examples.
+Cisco SD-WAN is a software-defined networking solution that provides centralized control, policy management, and secure connectivity across distributed networks.
 
 I will keep this repository updated and add new topics.
 
