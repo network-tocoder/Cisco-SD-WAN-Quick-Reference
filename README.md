@@ -1,16 +1,10 @@
-<p align="center">
-  <img src="images/banner_sdwan.png" width="60%" alt="Cisco SD-WAN Banner"/>
-</p>
 
-<h1 align="center" style="color:#1565c0; font-family:Segoe UI,Arial,sans-serif;">
+
+<h1 align="center" style="color:#1565c0; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.5em; font-weight:700; letter-spacing:1px;">
   Everything About Cisco SD-WAN (Viptela)
 </h1>
 
-<p align="center">
-  <img src="images/Ansible.png" width="7%" alt="Ansible Logo"/>
-</p>
-
-<p align="center" style="color:#1976d2; font-size:1.1em;">
+<p align="center" style="color:#1976d2; font-size:1.15em; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-weight:500;">
   <b>Comprehensive, practical, and regularly updated documentation for Cisco SD-WAN (Viptela) with automation use cases.</b>
 </p>
 
