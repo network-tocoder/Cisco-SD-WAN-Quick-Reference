@@ -8,7 +8,8 @@
 
 <p style="color:#1976d2; font-size:1.2em;">
   This project focuses on sharing brief, clear explanations on how to use <b>Cisco SD-WAN (Viptela)</b> with practical use cases and automation examples.<br>
-  <b>Repository is updated regularly with new topics!</b>
+  
+  <b>Repository will be updated regularly with new topics!</b>
 </p>
 
 ---
