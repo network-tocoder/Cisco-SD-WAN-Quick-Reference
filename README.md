@@ -1,24 +1,16 @@
 
+# Everything About Cisco SD-WAN <img src="images/Ansible.png" width="10%" height="50%" align="right" /> 
 
+ </div><img align="right" valign="center" src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/> 
+<br></div></br>
+This project focuses on sharing brief, clear explanations how to use cisco SD-WAN & it's automation capablities.
+<br></div></br>
+I will keep this repository updated and add new topics.
+<br></div></br>
 
-<h1 align="center" style="color:#0d47a1; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.8em; font-weight:800; letter-spacing:1.5px;">
-  Everything About Cisco SD-WAN (Viptela)
-</h1>
-
-<p align="center" style="color:#1976d2; font-size:1.22em; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-weight:600; line-height:1.5;">
-  <span style="background: #e3f2fd; padding: 0.2em 0.7em; border-radius: 8px;">Comprehensive, practical, and regularly updated documentation for Cisco SD-WAN (Viptela) with automation use cases.</span>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/>
-</p>
-
----
-
-## 📚 SD-WAN Documentation Index
 
 <details>
-  <summary><b>1. SD-WAN Core Concepts</b></summary>
+  <summary><b>1.How to Get started with SD-WAN ( Core Concepts) </b></summary>
   <ul>
     <li><a href="01_SD-WAN_Core_Concepts/Controllers_Architecture.md">Controllers Architecture</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Plane_Architecture.md">SD-WAN Functional Planes Overview</a></li>
