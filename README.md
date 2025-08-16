@@ -13,7 +13,7 @@ I will keep this repository updated and add new topics.
   <ul>
     <li><a href="01_SD-WAN_Core_Concepts/Controllers_Architecture.md">Controllers Architecture</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Plane_Architecture.md">SD-WAN Functional Planes Overview</a></li>
-    <li><a href="01_SD-WAN_Core_Concepts/Security_and_Authentication.md">Security & Protocol</a></li>
+    <li><a href="01_SD-WAN_Core_Concepts/Security_and_Authentication.md">Security & Transport Protocol</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/SD-WAN_Operation_Flow.md">How SD-WAN Works (Step by Step Flow)</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Key_Protocols.md">Key Protocols</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Network_Ports.md">Network Ports</a></li>
