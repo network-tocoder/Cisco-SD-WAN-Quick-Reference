@@ -10,7 +10,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/>
 </p>
 <details>
-  <summary><b>1.How to Get started with SD-WAN ( Core Concepts) </b></summary>
+  <summary><b>How to Get started with SD-WAN ( Core Concepts) </b></summary>
   <ul>
     <li><a href="01_SD-WAN_Core_Concepts/Controllers_Architecture.md">Controllers Architecture</a></li>
     <li><a href="01_SD-WAN_Core_Concepts/Plane_Architecture.md">SD-WAN Functional Planes Overview</a></li>
@@ -24,7 +24,7 @@
   </ul>
 </details>
 <details>
-  <summary><b>2. SD-WAN Onboarding</b></summary>
+  <summary><b>SD-WAN Onboarding</b></summary>
   <ul>
     <li><a href="02_SD-WAN_Onboarding/README.md">Onboarding Steps</a></li>
   </ul>
