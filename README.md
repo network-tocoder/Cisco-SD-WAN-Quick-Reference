@@ -178,10 +178,14 @@ Go to Monitor > Devices > [device].
 > - To verify the data plane from vManage: Go to Monitor > Devices > [device] > 
 Go to Monitor > Devices > [device].
 ```
-Troubleshooting > Ping | Traceroute
+
+**Verify Data Plane from vManage**
+
+Go to Monitor > Devices > [device] > Troubleshooting > Ping | Traceroute
+
+**Perfrom remote packet capture from vManage**
 
 ```
-> - To perform remote packet capture from vManage:
 >   - vManage > Administration > Settings > Data Stream > Enabled
 >   - Monitor > Devices > [device] > Troubleshooting > Packet Capture
 
