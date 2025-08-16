@@ -1,11 +1,12 @@
 
 
-<h1 align="center" style="color:#1565c0; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.5em; font-weight:700; letter-spacing:1px;">
+
+<h1 align="center" style="color:#0d47a1; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.8em; font-weight:800; letter-spacing:1.5px;">
   Everything About Cisco SD-WAN (Viptela)
 </h1>
 
-<p align="center" style="color:#1976d2; font-size:1.15em; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-weight:500;">
-  <b>Comprehensive, practical, and regularly updated documentation for Cisco SD-WAN (Viptela) with automation use cases.</b>
+<p align="center" style="color:#1976d2; font-size:1.22em; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-weight:600; line-height:1.5;">
+  <span style="background: #e3f2fd; padding: 0.2em 0.7em; border-radius: 8px;">Comprehensive, practical, and regularly updated documentation for Cisco SD-WAN (Viptela) with automation use cases.</span>
 </p>
 
 <p align="center">
