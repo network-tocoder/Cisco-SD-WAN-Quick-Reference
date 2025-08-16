@@ -117,6 +117,16 @@ show sdwan control connections
 
 ### Data-Plane (IPSec) Tunnels
 
+## Cisco SD-WAN GUI Verifications
+
+**View a WAN Edge Router's Running Configuration**
+
+- vManage > Configuration > Devices > (3 dots) > Running Configurations
+
+**SSH to WAN Edge Router**
+
+- vManage > Monitor > Devices > (3 dots) > SSH Terminal
+
 **vEdge:**
 ```
 show bfd sessions
