@@ -103,6 +103,8 @@ Cisco SD-WAN is a software-defined networking solution that provides centralized
 - All control connections (DTLS/TLS, OMP) and data plane tunnels (IPSec) are established via interfaces in VPN 0.
 - No user traffic is routed here; it is strictly for transport and control.
 
+**Note:** This is equivalent to the global routing table on traditional WAN routing.
+
 **VPN 512 (Management VPN):**
 - Dedicated for out-of-band management access to WAN Edge routers.
 - Used for device management, SSH, SNMP, and communication with vManage for configuration and monitoring.
