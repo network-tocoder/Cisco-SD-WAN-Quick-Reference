@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color:#0d47a1; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.8em; font-weight:800; letter-spacing:1.5px;">
+<h1 align="left" style="color:#0d47a1; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.8em; font-weight:800; letter-spacing:1.5px;">
   Everything About Cisco SD-WAN (Viptela)
 </h1>
 
