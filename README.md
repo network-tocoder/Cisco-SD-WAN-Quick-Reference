@@ -6,8 +6,7 @@
 <p align="left" style="color:#1976d2; font-size:1.22em; font-family:'Montserrat', 'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-weight:600; line-height:1.5;">
   <span style="background: #e3f2fd; padding: 0.2em 0.7em; border-radius: 8px;">This project focuses on sharing brief, clear explanations about Cisco SD-WAN from its technology & also cover it's automation capabilities </span>
 </p>
-
-<p align="center">
+<p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/>
 </p>
 <details>
