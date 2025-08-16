@@ -1,19 +1,28 @@
 
-<h1 style="color:#1565c0; font-family:Segoe UI,Arial,sans-serif; font-size:2.5em;">
+
+<p align="center">
+  <img src="images/banner_sdwan.png" width="60%" alt="Cisco SD-WAN Banner"/>
+</p>
+
+<h1 align="center" style="color:#1565c0; font-family:Segoe UI,Arial,sans-serif;">
   Everything About Cisco SD-WAN (Viptela)
-  <img src="images/Ansible.png" width="8%" align="right" />
 </h1>
 
-<img align="right" valign="center" src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/>
+<p align="center">
+  <img src="images/Ansible.png" width="7%" alt="Ansible Logo"/>
+</p>
 
-<p style="color:#1976d2; font-size:1.2em;">
-  This project focuses on sharing brief, clear explanations on how to use <b>Cisco SD-WAN (Viptela)</b> with practical use cases and automation examples.<br>
-  <b>Repository is updated regularly with new topics!</b>
+<p align="center" style="color:#1976d2; font-size:1.1em;">
+  <b>Comprehensive, practical, and regularly updated documentation for Cisco SD-WAN (Viptela) with automation use cases.</b>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/>
 </p>
 
 ---
 
-## 📚 <span style="color:#1976d2;">SD-WAN Documentation Index</span>
+## 📚 SD-WAN Documentation Index
 
 <details>
   <summary><b>1. SD-WAN Core Concepts</b></summary>
