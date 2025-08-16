@@ -1,4 +1,4 @@
-## Plane Architecture
+## SD-WAN Functional Planes Overview
 
 | Plane | Managed By | Function |
 |-------|------------|----------|
