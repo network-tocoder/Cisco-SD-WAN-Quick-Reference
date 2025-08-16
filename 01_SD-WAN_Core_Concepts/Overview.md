@@ -1,3 +1,16 @@
-## Overview
+## Controllers Architecture
 
-Cisco SD-WAN is a software-defined networking solution that provides centralized control, policy management, and secure connectivity across distributed networks.
+### 1. vManage NMS (Network Management System)
+- **Purpose**: GUI for configuring and managing SD-WAN solution
+- **Function**: Centralized management interface
+- **Plane**: Management plane controller
+
+### 2. vBond Orchestrator
+- **Purpose**: Automation engine for onboarding new routers
+- **Function**: Runs secure DTLS (TLS over UDP) connections
+- **Role**: Initial authentication and orchestration
+
+### 3. vSmart Controllers
+- **Purpose**: Controls routing and policy decisions
+- **Function**: Route distribution and policy enforcement
+- **Plane**: Control plane controller
