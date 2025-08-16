@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="images/banner_sdwan.png" width="60%" alt="Cisco SD-WAN Banner"/>
 </p>
