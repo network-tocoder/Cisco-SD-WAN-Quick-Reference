@@ -16,6 +16,4 @@
   - Can be re-synced from vManage > Configuration > Certificates > WAN Edge List > Send to Controllers
   - Verified with `show orchestrator valid-vedges` from vBond CLI
 
-<img src="../images/serialFile_viptela.png" alt="Understanding the WAN Edge List" width="400"/>
-
 > **Tip:** Always ensure the WAN Edge List is up to date and synchronized to avoid onboarding failures.
