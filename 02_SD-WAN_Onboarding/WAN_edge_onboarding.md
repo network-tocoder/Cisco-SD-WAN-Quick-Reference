@@ -69,8 +69,6 @@ vEdge-2:~$ vi MyCA.crt
 vEdge-2:~$ exit
 vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
 ```
-
-
 ---
 
 ### Step-3: Uploading and Syncing the WAN Edge List
@@ -92,3 +90,19 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
 <img src="../images/upload_wan_edge_list.png" alt="Upload WAN Edge List" width="400"/>
 
 > **Tip:** Always ensure the WAN Edge List is up to date and synchronized to avoid onboarding failures.
+
+### Step-4: Update Chassis Number and token otp on vEdge
+
+##### Once the WAN edge List i uploaded and synedto vBond go to vManag > Configration > Devices
+
+- Choose appropriate chassis number from the list then "generate Bootstrap Configration" from the right
+- Copy the UUID and OTP field
+- Then enter ollowing comand on the vEdge CLI:
+
+  ```
+  request vedge-cloud activate chassis-number UUID token OTP
+  
+  ```
+
+
+
