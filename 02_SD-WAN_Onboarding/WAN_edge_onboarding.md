@@ -15,7 +15,9 @@
 
 ---
 
-## Onboarding Cisco SD-WAN vEdge Routers: Minimum CLI Options
+## Onboarding Cisco SD-WAN vEdge Routers: 
+
+### Step -1 : Minimum CLI Options
 
 - Host-name
 - System-ip (unique, does not need to be routable)
@@ -26,7 +28,7 @@
 
 ---
 
-## Example vEdge Router Initial CLI Config
+#### Example vEdge Router Initial CLI Config
 
 ```shell
 config
@@ -54,7 +56,7 @@ commit and-quit
 
 ---
 
-## Installing a Private Root CA Certificate on the vEdge Router
+### Step -2: Installing a Private Root CA Certificate on the vEdge Router
 
 If not using Cisco Cloud for PKI, install the Root CA Cert:
 
