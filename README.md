@@ -13,7 +13,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=network.tocoder.network.tocoder" alt="visitor badge"/>
 </p>
 
----
 
 
 <details>
@@ -67,6 +66,4 @@
   </ul>
 </details>
 
----
 
-> This repository is a living document. Contributions and suggestions are welcome!
