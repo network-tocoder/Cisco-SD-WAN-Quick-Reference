@@ -35,6 +35,7 @@
     <li><a href="02_SD-WAN_Onboarding/Enabling_Enterprise_Cert_on_vManage.md">Enabling Enterprise Certificates on vManage</a></li>
     <li><a href="02_SD-WAN_Onboarding/Trusting_Root_CA_on_Controllers.md">Trusting the Root CA Certificate on SD-WAN Controllers</a></li>
     <li><a href="02_SD-WAN_Onboarding/Signing_Controllers_Certificates.md">Signing Controllers Certificates (CSR)</a></li>
+    <li><a href="02_SD-WAN_Onboarding/Verification_Onboarding.md">Verification of Onboarding (CLI Example)</a></li>
   </ul>
 </details>
 <details>
