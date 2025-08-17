@@ -1,6 +1,6 @@
 # SD-WAN Onboarding – Key Concepts
 
-This document covers the foundational concepts required for onboarding Cisco SD-WAN controllers and WAN Edge routers, focusing on underlay transport and management VPNs.
+Foundational concepts required for onboarding Cisco SD-WAN controllers and WAN Edge routers!
 
 ## Underlay Transport (VPN 0)
 
