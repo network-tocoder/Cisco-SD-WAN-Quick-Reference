@@ -105,7 +105,7 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
   ```
 
 
-### Step-5: Verficatio
+### Step-5: let's verify onboarding session from vEdge
 
 Once the WAN Edge Router is configured, verify the onboarding status:
 
