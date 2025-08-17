@@ -70,9 +70,10 @@ vEdge-2:~$ exit
 vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
 ```
 
-# Understanding WAN Edge List
 
-## Why the WAN Edge List is Important
+---
+
+### Step-3: Uploading and Syncing the WAN Edge List
 
 - **vBond Orchestrator** needs to know the list of Chassis Numbers & Serial Numbers of the WAN Edge Routers to authenticate & onboard them.
   - Can be done automatically through vManage sync to Cisco Smart Licensing
@@ -80,7 +81,7 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
     - vManage > Configuration > Devices > Upload WAN Edge List
     - Check the box to "send to controllers" to sync to vBond
 
-## Synchronization Requirements
+<img src="../upload_wan_edge_list.png" alt="Upload WAN Edge List" width="400"/>
 
 - vBond must have the WAN Edge List synchronized with vManage
   - WAN Edge List not synced will result in DTLS tunnel failure
