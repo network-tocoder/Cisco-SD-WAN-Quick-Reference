@@ -1,11 +1,11 @@
 
 
-<h1 align="center" style="color:#1565c0; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.5em; font-weight:700; letter-spacing:1px;">
+<h1 align="left" style="color:#1565c0; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.5em; font-weight:700; letter-spacing:1px;">
   Everything About Cisco SD-WAN (Viptela)
 </h1>
 
-<p align="center" style="color:#1976d2; font-size:1.15em; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-weight:500;">
-  <b>Comprehensive, practical, and regularly updated documentation for Cisco SD-WAN (Viptela) with automation use cases.</b>
+<p align="left" style="color:#1976d2; font-size:1.15em; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-weight:500;">
+  <b>This project focuses on sharing brief, clear explanations on Cisco SD-WAN from technology view point and it's automation capabilities.</b>
 </p>
 
 
@@ -15,7 +15,6 @@
 
 ---
 
-## 📚 SD-WAN Documentation Index
 
 <details>
   <summary><b>1. SD-WAN Core Concepts</b></summary>
