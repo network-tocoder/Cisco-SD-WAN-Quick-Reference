@@ -1,6 +1,5 @@
-# Signing the Controllers Certificates (CSR)
 
-![Signing Controllers Certificates](../images/Signing_Controllers_Certificates.png)
+# Signing the Controllers Certificates (CSR)
 
 ## Overview
 All controllers must generate Certificate Signing Requests (CSRs), which are then signed by the internal Root CA.
@@ -21,5 +20,9 @@ All controllers must generate Certificate Signing Requests (CSRs), which are the
   - `vManage > Configuration > Certificates > Controllers > ... > View CSR | Generate CSR`
 
 ---
+
+## SD-WAN Controllers Certificate Signing Request Example
+
+![SD-WAN Controllers Certificate Signing Request Example](../images/SDWAN_CSR_Example.png)
 
 > **Tip:** Ensure all controller CSRs are signed by the internal Root CA before proceeding with further onboarding or configuration steps.
