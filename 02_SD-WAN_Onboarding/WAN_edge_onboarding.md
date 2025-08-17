@@ -93,7 +93,7 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
 
 ### Step-4: Update Chassis Number and token otp on vEdge
 
-##### Once the WAN edge List i uploaded and synedto vBond go to vManag > Configration > Devices
+##### Once the WAN edge List is uploaded and syned to vBond , then go to vManage > Configration > Devices
 
 - Choose appropriate chassis number from the list then "generate Bootstrap Configration" from the right
 - Copy the UUID and OTP field
