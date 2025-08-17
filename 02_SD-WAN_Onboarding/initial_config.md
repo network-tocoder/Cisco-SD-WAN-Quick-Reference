@@ -1,4 +1,4 @@
-# Onboarding Internally Hosted Cisco SD-WAN Controllers – Required CLI Config
+# Onboarding CLI Config
 
 Onboarding Controllers starts with minimum CLI options:
 

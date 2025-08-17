@@ -33,7 +33,7 @@
   <summary><b>2. SD-WAN Onboarding</b></summary>
   <ul>
     <li><a href="02_SD-WAN_Onboarding/Onboarding_key_concepts.md">Onboarding Key Concepts</a></li>
-    <li><a href="02_SD-WAN_Onboarding/README.md">Onboarding Steps</a></li>
+    <li><a href="02_SD-WAN_Onboarding/initial_config.md">Onboarding Steps</a></li>
   </ul>
 </details>
 <details>
