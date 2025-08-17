@@ -15,7 +15,7 @@
 
 ---
 
-## Onboarding Cisco SD-WAN vEdge Routers: 
+# Onboarding Cisco SD-WAN vEdge Routers: 
 
 ### Step -1 : Minimum CLI Options
 
@@ -70,7 +70,7 @@ vEdge-2:~$ exit
 vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
 ```
 
-## Understanding the WAN Edge List
+# Understanding WAN Edge List
 
 ## Why the WAN Edge List is Important
 
