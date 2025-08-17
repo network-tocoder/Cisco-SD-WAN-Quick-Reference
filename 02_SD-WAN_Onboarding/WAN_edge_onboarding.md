@@ -1,4 +1,4 @@
-# Cisco SD-WAN Edge Routers
+# Cisco SD-WAN Edge Routers overview
 
 ## Edge Router Variations
 - **vEdge Routers** running Viptela OS
