@@ -23,4 +23,10 @@ All controllers must generate Certificate Signing Requests (CSRs), which are the
 
 ![SD-WAN Controllers Certificate Signing Request Example](../images/SDWAN_CSR_Example.png)
 
+---
+
+## Using Cisco IOS as a Root CA Server Example – Signing the SD-WAN Controllers Certificates
+
+![Using Cisco IOS as a Root CA Server Example](../images/IOS_CA_Signing_Example.png)
+
 > **Tip:** Ensure all controller CSRs are signed by the internal Root CA before proceeding with further onboarding or configuration steps.
