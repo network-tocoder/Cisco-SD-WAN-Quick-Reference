@@ -105,7 +105,9 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
   ```
 
 
-### Step-5: let's verify onboarding session from vEdge
+### Step-5: let's verify onboarding session 
+
+#### On vEdge
 
 Once the WAN Edge Router is configured, verify the onboarding status:
 
@@ -120,5 +122,12 @@ show control local-properties
 ```
 The certficate status now shows "installed" and "valid" and token shows "invalid"
 
+#### on vManage & vBond
+
+We can see additional DTLS session to vEdge from vManage, VSmart - Infact we will see more than one session from vSmart to vEdge.
+
+```
+show control connections
+```
 
 
