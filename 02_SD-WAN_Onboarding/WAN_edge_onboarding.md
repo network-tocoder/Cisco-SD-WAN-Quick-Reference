@@ -81,7 +81,7 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
     - vManage > Configuration > Devices > Upload WAN Edge List
     - Check the box to "send to controllers" to sync to vBond
 
-<img src="../upload_wan_edge_list.png" alt="Upload WAN Edge List" width="400"/>
+
 
 - vBond must have the WAN Edge List synchronized with vManage
   - WAN Edge List not synced will result in DTLS tunnel failure
@@ -90,3 +90,5 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
   - Verified with `show orchestrator valid-vedges` from vBond CLI
 
 > **Tip:** Always ensure the WAN Edge List is up to date and synchronized to avoid onboarding failures.
+
+<img src="../images/upload_wan_edge_list.png" alt="Upload WAN Edge List" width="400"/>
