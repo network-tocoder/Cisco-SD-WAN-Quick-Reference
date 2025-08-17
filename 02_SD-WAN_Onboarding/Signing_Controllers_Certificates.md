@@ -1,9 +1,7 @@
 
 # Signing the Controllers Certificates (CSR)
 
-## Overview
 All controllers must generate Certificate Signing Requests (CSRs), which are then signed by the internal Root CA.
-
 ---
 
 ## Steps to Sign Controller Certificates
