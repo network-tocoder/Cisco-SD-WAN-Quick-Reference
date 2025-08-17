@@ -1,5 +1,3 @@
-
-
 <h1 align="left" style="color:#1565c0; font-family:'Segoe UI', 'Roboto', 'Arial', 'Helvetica Neue', sans-serif; font-size:2.5em; font-weight:700; letter-spacing:1px;">
   Everything About Cisco SD-WAN (Viptela)
 </h1>
@@ -34,6 +32,7 @@
   <ul>
     <li><a href="02_SD-WAN_Onboarding/Onboarding_key_concepts.md">Onboarding Key Concepts</a></li>
     <li><a href="02_SD-WAN_Onboarding/initial_config.md">Onboarding Intail Configrationss</a></li>
+    <li><a href="02_SD-WAN_Onboarding/Enabling_Enterprise_Cert_on_vManage.md">Enabling Enterprise Certificates on vManage</a></li>
   </ul>
 </details>
 <details>
