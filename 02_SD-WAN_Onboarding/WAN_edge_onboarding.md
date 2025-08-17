@@ -89,6 +89,6 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
   - Can be re-synced from vManage > Configuration > Certificates > WAN Edge List > Send to Controllers
   - Verified with `show orchestrator valid-vedges` from vBond CLI
 
-> **Tip:** Always ensure the WAN Edge List is up to date and synchronized to avoid onboarding failures.
-
 <img src="../images/upload_wan_edge_list.png" alt="Upload WAN Edge List" width="400"/>
+
+> **Tip:** Always ensure the WAN Edge List is up to date and synchronized to avoid onboarding failures.
