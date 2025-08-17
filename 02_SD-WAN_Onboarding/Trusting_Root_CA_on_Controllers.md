@@ -13,12 +13,9 @@
 ```shell
 vManage-1# request root-cert-chain install /home/admin/MyCA.crt
 ```
-
-### Example: CLI Installation and Verification
+#### Example: CLI Installation and Verification
 
 ![Trusting the Root CA Certificate - CLI Example](../images/Trusting_Root_CA_on_Controllers.png)
-
-
 
 ## Sync the Root CA Cert in the vManage database (required)
 
@@ -26,6 +23,6 @@ vManage-1# request root-cert-chain install /home/admin/MyCA.crt
 
 ---
 
-## Example: Syncing the Root CA Cert in vManage Database
+#### Example: Syncing the Root CA Cert in vManage Database
 
-![Syncing the Root CA Cert in vManage Database](../images/Trusting_Root_CA_on_Controllers.png)
+![Syncing the Root CA Cert in vManage Database](../images/Syncing_Root_CA_Cert.png)
