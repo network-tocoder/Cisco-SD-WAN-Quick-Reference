@@ -17,15 +17,11 @@
 - **Navigation:**
   - `vManage > Configuration > Certificates > Controllers > ... > View CSR | Generate CSR`
 
----
-
-## SD-WAN Controllers Certificate Signing Request Example
+#### SD-WAN Controllers Certificate Signing Request Example
 
 ![SD-WAN Controllers Certificate Signing Request Example](../images/SDWAN_CSR_Example.png)
 
----
-
-## Using Cisco IOS as a Root CA Server Example – Signing the SD-WAN Controllers Certificates
+#### Using Cisco IOS as a Root CA Server Example – Signing the SD-WAN Controllers Certificates
 
 ![Using Cisco IOS as a Root CA Server Example](../images/IOS_CA_Signing_Example.png)
 
