@@ -19,4 +19,4 @@
 
 ## Example: vManage GUI - Enterprise Certificate Settings
 
-![vManage Administration Settings](../images/Enabling_Enterprise_Cert_on_vManage.png)
+<img src="../images/Enabling_Enterprise_Cert_on_vManage.png" alt="vManage Administration Settings" width="400"/>
