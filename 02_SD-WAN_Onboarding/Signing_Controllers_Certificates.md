@@ -28,4 +28,16 @@ All controllers must generate Certificate Signing Requests (CSRs), which are the
 
 <img src="../images/IOS_CA_Signing_Example.png" alt="Using Cisco IOS as a Root CA Server Example" width="400"/>
 
-> **Tip:** Ensure all controller CSRs are signed by the internal Root CA before proceeding with further onboarding or configuration steps.
+
+---
+
+### 4. Installing the SD-WAN Controllers Signed Certificates
+
+- **Navigation:**
+  - `vManage > Configuration > Certificates > Controllers > Install Certificate`
+- **Action:**
+  - Paste or upload each of the Controllers’ Certificates granted from the Root CA
+
+<img src="../images/installong_signed_certficate.png" alt="Installing the SD-WAN Controllers Signed Certificates" width="400"/>
+
+> **Tip:** After installing, verify certificate status for each controller in the vManage GUI.
