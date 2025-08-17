@@ -40,7 +40,8 @@
     <li><a href="02_SD-WAN_Onboarding/WAN_Edge_List.md">Understanding the WAN Edge List</a></li>
     <li><a href="02_SD-WAN_Onboarding/Troubleshooting_Onboarding.md">Troubleshooting Onboarding (CLI Commands)</a></li>
     <li><a href="02_SD-WAN_Onboarding/WAN_Edge_List.md">WAN Edge List (vBond Sync & Serial Upload)</a></li>
-    <li><a href="02_SD-WAN_Onboarding/WAN_edge_onboarding.md">Onboarding vEdge/cEdge Routers</a></li>
+    <li><a href="02_SD-WAN_Onboarding/vEdge_onboarding.md">Onboarding vEdge Routers</a></li>
+    <li><a href="02_SD-WAN_Onboarding/cEdge_onboarding.md">Onboarding cEdge Routers</a></li>
   </ul>
 </details>
 <details>
