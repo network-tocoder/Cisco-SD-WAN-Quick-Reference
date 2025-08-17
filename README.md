@@ -33,6 +33,7 @@
     <li><a href="02_SD-WAN_Onboarding/Onboarding_key_concepts.md">Onboarding Key Concepts</a></li>
     <li><a href="02_SD-WAN_Onboarding/initial_config.md">Onboarding Intail Configrationss</a></li>
     <li><a href="02_SD-WAN_Onboarding/Enabling_Enterprise_Cert_on_vManage.md">Enabling Enterprise Certificates on vManage</a></li>
+    <li><a href="02_SD-WAN_Onboarding/Trusting_Root_CA_on_Controllers.md">Trusting the Root CA Certificate on SD-WAN Controllers</a></li>
   </ul>
 </details>
 <details>
