@@ -97,7 +97,7 @@ vEdge-2# request root-cert-chain install /home/admin/MyCA.crt
 
 - Choose appropriate chassis number from the list then "generate Bootstrap Configration" from the right
 - Copy the UUID and OTP field
-- Then enter ollowing comand on the vEdge CLI:
+- Then enter following comand on the vEdge CLI:
 
   ```
   request vedge-cloud activate chassis-number UUID token OTP
