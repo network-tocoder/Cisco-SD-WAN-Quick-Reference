@@ -36,6 +36,7 @@
     <li><a href="02_SD-WAN_Onboarding/Trusting_Root_CA_on_Controllers.md">Trusting the Root CA Certificate on SD-WAN Controllers</a></li>
     <li><a href="02_SD-WAN_Onboarding/Signing_Controllers_Certificates.md">Signing Controllers Certificates (CSR)</a></li>
     <li><a href="02_SD-WAN_Onboarding/Verification_Onboarding.md">Verification of Onboarding (CLI & GUI Examples)</a></li>
+    <li><a href="02_SD-WAN_Onboarding/WAN_Edge_List.md">Understanding the WAN Edge List</a></li>
     <li><a href="02_SD-WAN_Onboarding/Troubleshooting_Onboarding.md">Troubleshooting Onboarding (CLI Commands)</a></li>
   </ul>
 </details>
