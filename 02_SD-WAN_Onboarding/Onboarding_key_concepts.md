@@ -1,4 +1,8 @@
-# SD-WAN Controllers – Underlay Transport
+# SD-WAN Onboarding – Key Concepts
+
+This document covers the foundational concepts required for onboarding Cisco SD-WAN controllers and WAN Edge routers, focusing on underlay transport and management VPNs.
+
+## Underlay Transport (VPN 0)
 
 - The first step in onboarding the Controllers is to establish IP transport between themselves & the WAN Edge Routers in the underlay network
   - E.g. over the Internet or MPLS facing link(s)
@@ -14,7 +18,7 @@
 - All Controllers & WAN Edge Routers need reachability to each other in VPN 0
   - This is where DTLS tunnels are established for the control-plane
 
-# SD-WAN Controllers – Management VPN (VPN 512)
+## Management VPN (VPN 512)
 
 - **VPN 512 is the “Management VPN”, used for Out-of-Band Management**
   - VPN 512 is equivalent to VRF “Mgmt-intf” in Cisco IOS
