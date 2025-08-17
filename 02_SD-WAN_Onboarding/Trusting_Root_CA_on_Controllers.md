@@ -21,8 +21,6 @@ vManage-1# request root-cert-chain install /home/admin/MyCA.crt
 
 - [https://<vManage-ip-address>/dataservice/system/device/sync/rootcertchain](https://<vManage-ip-address>/dataservice/system/device/sync/rootcertchain)
 
----
-
 #### Example: Syncing the Root CA Cert in vManage Database
 
 ![Syncing the Root CA Cert in vManage Database](../images/Syncing_Root_CA_Cert.png)
