@@ -21,7 +21,9 @@
 
 ![SD-WAN Controllers Certificate Signing Request Example](../images/SDWAN_CSR_Example.png)
 
-#### Using Cisco IOS as a Root CA Server Example – Signing the SD-WAN Controllers Certificates
+### 3. Signing the SD-WAN Controllers Certificates
+
+#### Example Using Cisco IOS as a Root CA Server
 
 ![Using Cisco IOS as a Root CA Server Example](../images/IOS_CA_Signing_Example.png)
 
