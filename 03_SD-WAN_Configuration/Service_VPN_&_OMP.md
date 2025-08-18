@@ -1,4 +1,4 @@
-### Cisco SD-WAN Service VPNs and the Overlay Management Protocol (OMP)
+### Cisco SD-WAN Service VPNs and Overlay Management Protocol (OMP)
 
 ### Service VPNs Purpose
 - These VPNs handle traffic inside IPsec tunnels between SD-WAN sites.
