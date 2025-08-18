@@ -42,6 +42,6 @@
 - They only communicate through vSmart.
 - vSmart takes the routes, applies path selection rules, and reflects them back to the WAN Edges.
 
-### Example configration of VPN Configration
+### Example for Service VPN Configration
 
 <img src="../images/vpn_configration.png" alt="Example configration of VPN Configration" width="600"/>
