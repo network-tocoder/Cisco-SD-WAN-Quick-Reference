@@ -82,3 +82,7 @@ vManage GUI >
                      Generate Bootstrap Configration >
                          copy the UUID & OTP 
 ```
+
+### Step#4- Update UUID & Token on cEdges
+
+
