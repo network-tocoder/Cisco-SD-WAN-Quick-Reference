@@ -17,3 +17,36 @@ Continue? [confirm]
 Do you want to abort? (yes/[no]): yes
 Cat8_Site101_WAN_01#reboot
 ```
+
+## Example IOS XE SD-WAN CEdge Configuration
+
+```plaintext
+config-transaction
+ hostname Cat8Kv-1
+ system
+  system-ip 172.17.101.1
+  site-id 101
+  organization-name VIPTELA.local
+ vbond 150.1.1.103
+ !
+ interface GigabitEthernet1
+  no shutdown
+  ip address 10.101.1.1 255.255.255.252
+ !
+ ip route 0.0.0.0 0.0.0.0 10.101.1.2
+ !
+ interface Tunnel1
+  ip unnumbered GigabitEthernet1
+  tunnel source GigabitEthernet1
+  tunnel mode sdwan
+  no shutdown
+ !
+ sdwan
+  interface GigabitEthernet1
+  interface Tunnel1
+   encapsulation ipsec
+   color biz-internet
+   allow-service all
+ !
+commit
+```
