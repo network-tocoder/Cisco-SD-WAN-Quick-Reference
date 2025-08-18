@@ -20,7 +20,7 @@ Cat8_Site101_WAN_01#reboot
 
 ### IOS XE SD-WAN CEdge Configuration 
 
-> **Tip:** Refer Tunnel config which is additional config camparing  vEdge devces
+> **Tip:** Refer Tunnel config which is the additional config while camparing those vEdge configrations.
 
 ```plaintext
 config-transaction
