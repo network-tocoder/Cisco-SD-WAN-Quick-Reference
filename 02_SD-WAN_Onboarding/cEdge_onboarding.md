@@ -18,7 +18,9 @@ Do you want to abort? (yes/[no]): yes
 Cat8_Site101_WAN_01#reboot
 ```
 
-### Example IOS XE SD-WAN CEdge Configuration - Refer Tunnel config which is additional config camparing  vEdge devces
+### Example IOS XE SD-WAN CEdge Configuration - 
+
+> **Tip:** Refer Tunnel config which is additional config camparing  vEdge devces
 
 ```plaintext
 config-transaction
