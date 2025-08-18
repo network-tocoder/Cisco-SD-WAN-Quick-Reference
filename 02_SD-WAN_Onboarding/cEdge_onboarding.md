@@ -9,5 +9,11 @@
 - Changes are saved with `commit`
 
 ```
-controller-mode enable
+Cat8_Site101_WAN_01#controller-mode enable 
+Enabling controller mode will erase the nvram filesystem, remove all configuration files, and reload the box! 
+Ensure the BOOT variable points to a valid image 
+Continue? [confirm]
+% Warning: Bootstrap config file needed for Day-0 boot is missing
+Do you want to abort? (yes/[no]): yes
+Cat8_Site101_WAN_01#reboot
 ```
