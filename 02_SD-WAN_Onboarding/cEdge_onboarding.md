@@ -98,4 +98,9 @@ show sdwan control connection  [ 3 tunnels built, towards vManage,vBond, vSmart]
 show sdwan bfd session [ Full mesh tunnel , if 2 WAN circuit, at least 4 tunels built]
 ```
 
-
+### Step#6 - Tshooting Commands
+```
+show sdwan control local-properties
+show sdwan control connection-history
+show sdwan running-config
+```
