@@ -18,7 +18,7 @@ Do you want to abort? (yes/[no]): yes
 Cat8_Site101_WAN_01#reboot
 ```
 
-### Example IOS XE SD-WAN CEdge Configuration 
+### IOS XE SD-WAN CEdge Configuration 
 
 > **Tip:** Refer Tunnel config which is additional config camparing  vEdge devces
 
@@ -51,4 +51,10 @@ config-transaction
    allow-service all
  !
 commit
+```
+
+### Verification commands
+
+```
+show sdwan running-config
 ```
