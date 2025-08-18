@@ -85,4 +85,6 @@ vManage GUI >
 
 ### Step#4- Update UUID & Token on cEdges
 
-
+```
+request vedge-cloud activate chassis-number UUID token OTP
+```
