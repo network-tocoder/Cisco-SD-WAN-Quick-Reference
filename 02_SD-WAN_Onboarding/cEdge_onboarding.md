@@ -1,6 +1,6 @@
 
 
-## Understanding IOS XE SD-WAN Mode
+### Understanding IOS XE SD-WAN Mode
 
 - Cisco IOS XE routers don't run in SD-WAN Mode by default
 - Modes are mutually exclusive; can't run both at the same time
@@ -18,7 +18,7 @@ Do you want to abort? (yes/[no]): yes
 Cat8_Site101_WAN_01#reboot
 ```
 
-## Example IOS XE SD-WAN CEdge Configuration
+### Example IOS XE SD-WAN CEdge Configuration - Refer Tunnel config which is additional config camparing  vEdge devces
 
 ```plaintext
 config-transaction
