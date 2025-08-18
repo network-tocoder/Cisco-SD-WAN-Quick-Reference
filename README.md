@@ -47,7 +47,7 @@
 <details>
   <summary><b>3. SD-WAN Configuration</b></summary>
   <ul>
-    <li><a href="03_SD-WAN_Configuration/README.md">Configuration Guide</a></li>
+    <li><a href="03_SD-WAN_Configuration/Service_VPN_&_OMP.md"> Overview On OMP & Service VPN </a></li>
   </ul>
 </details>
 <details>
