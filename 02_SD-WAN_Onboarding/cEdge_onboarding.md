@@ -69,3 +69,9 @@ copy tftp://192.168.223.127/myca.cert bootflash:
 ```
 request platfrom software sdwan root-cert-chain install bootflash:myca.crt
 ```
+
+### Step#3 - Generate Bootstrap configration from vManage
+
+```
+vManage GUI > Configration > Devices > select Upload WAN Edge List > select C8000v >> click on 3 dots on right side > Generate Bootstrap Configration > copy the UUID & OTP 
+```
