@@ -16,9 +16,11 @@ Continue? [confirm]
 % Warning: Bootstrap config file needed for Day-0 boot is missing
 Do you want to abort? (yes/[no]): yes
 Cat8_Site101_WAN_01#reboot
-```
 
-### IOS XE SD-WAN CEdge Configuration 
+```
+## Onboarding Cisco SD-WAN cEdge Routers:
+
+### Step#1: IOS XE SD-WAN CEdge Configuration 
 
 > **Tip:** Refer Tunnel config which is the additional config while camparing those vEdge configrations.
 
@@ -57,4 +59,13 @@ commit
 
 ```
 show sdwan running-config
+```
+
+### Step#2: Installing private Root CA certificate on cEdge
+
+```
+copy tftp://192.168.223.127/myca.cert bootflash:
+```
+```
+request platfrom software sdwan root-cert-chain install bootflash:myca.crt
 ```
