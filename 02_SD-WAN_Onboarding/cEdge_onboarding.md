@@ -83,8 +83,16 @@ vManage GUI >
                          copy the UUID & OTP 
 ```
 
-### Step#4- Update UUID & Token on cEdges
+### Step#4 - Update UUID & Token on cEdges
 
 ```
 request vedge-cloud activate chassis-number UUID token OTP
 ```
+
+### Step#5 - Verify Control Connection on cEdge
+
+```
+show sdwan control connection
+```
+
+
