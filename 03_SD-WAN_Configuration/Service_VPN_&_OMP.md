@@ -44,4 +44,4 @@
 
 ### Example for Service VPN Configration
 
-<img src="../images/vpn_configration.png" alt="Example configration of VPN Configration" width="600"/>
+<img src="../images/vpn_configration.png" alt="Example configration of VPN Configration" width="800"/>
