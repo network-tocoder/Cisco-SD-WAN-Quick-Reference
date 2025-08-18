@@ -92,7 +92,7 @@ request vedge-cloud activate chassis-number UUID token OTP
 ### Step#5 - Verify Control Connection on cEdge
 
 ```
-show sdwan control connection
+show sdwan control connection  [ 3 tunnels built, towards vManage,vBond, vSmart]
 ```
 
 
