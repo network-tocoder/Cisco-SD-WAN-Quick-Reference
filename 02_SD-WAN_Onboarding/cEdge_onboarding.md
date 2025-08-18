@@ -94,5 +94,8 @@ request vedge-cloud activate chassis-number UUID token OTP
 ```
 show sdwan control connection  [ 3 tunnels built, towards vManage,vBond, vSmart]
 ```
+```
+show sdwan bfd session [ Full mesh tunnel , if WAN circuit, at least 4 tunels built]
+```
 
 
