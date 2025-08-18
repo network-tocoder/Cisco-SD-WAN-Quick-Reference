@@ -44,4 +44,4 @@
 
 ### Example configration of VPN Configration
 
-<img src="../images/vpn_configration.png" alt="Verifying & Troubleshooting SD-WAN Controller Onboarding from CLI" width="400"/>
+<img src="../images/vpn_configration.png" alt="Example configration of VPN Configration" width="600"/>
